@@ -1,9 +1,8 @@
-# Notice
-this code is based on this project [tauri-terminal](https://github.com/marc2332/tauri-terminal)
-# Tauri + Solid + Typescript
+<h1 align="center">LiteTerm</h1>
+<p align="center">A lightweight terminal emulator for Mac, based on <a href="https://github.com/Sir-Thom/Terminaux">Terminaux</a></p>
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
+## Changes from Terminaux
+WIP
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## License
+LiteTerm is licensed under the GNU General Public License v3.0
